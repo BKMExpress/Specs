@@ -1,11 +1,11 @@
 
 Pod::Spec.new do |s|
 
-  s.name         = "3dsiossdk"
+  s.name         = "BKMThreeDS"
   
   s.version      = "0.0.1"
 
-  s.summary      = "3dsiossdk"
+  s.summary      = "BKM ThreeDS SDK for iOS applications."
 
   s.description  = "3ds SDK 2.0 SDK by Bankalararası Kart Merkezi."
 
